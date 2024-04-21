@@ -1,0 +1,14 @@
+C:\Users\burr\RiderProjects\ProfSoft\ProfSoft3\bin\Debug\net8.0\ProfSoft3.exe
+C:\Users\burr\RiderProjects\ProfSoft\ProfSoft3\bin\Debug\net8.0\ProfSoft3.deps.json
+C:\Users\burr\RiderProjects\ProfSoft\ProfSoft3\bin\Debug\net8.0\ProfSoft3.runtimeconfig.json
+C:\Users\burr\RiderProjects\ProfSoft\ProfSoft3\bin\Debug\net8.0\ProfSoft3.dll
+C:\Users\burr\RiderProjects\ProfSoft\ProfSoft3\bin\Debug\net8.0\ProfSoft3.pdb
+C:\Users\burr\RiderProjects\ProfSoft\ProfSoft3\obj\Debug\net8.0\ProfSoft3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burr\RiderProjects\ProfSoft\ProfSoft3\obj\Debug\net8.0\ProfSoft3.AssemblyInfoInputs.cache
+C:\Users\burr\RiderProjects\ProfSoft\ProfSoft3\obj\Debug\net8.0\ProfSoft3.AssemblyInfo.cs
+C:\Users\burr\RiderProjects\ProfSoft\ProfSoft3\obj\Debug\net8.0\ProfSoft3.csproj.CoreCompileInputs.cache
+C:\Users\burr\RiderProjects\ProfSoft\ProfSoft3\obj\Debug\net8.0\ProfSoft3.dll
+C:\Users\burr\RiderProjects\ProfSoft\ProfSoft3\obj\Debug\net8.0\refint\ProfSoft3.dll
+C:\Users\burr\RiderProjects\ProfSoft\ProfSoft3\obj\Debug\net8.0\ProfSoft3.pdb
+C:\Users\burr\RiderProjects\ProfSoft\ProfSoft3\obj\Debug\net8.0\ProfSoft3.genruntimeconfig.cache
+C:\Users\burr\RiderProjects\ProfSoft\ProfSoft3\obj\Debug\net8.0\ref\ProfSoft3.dll

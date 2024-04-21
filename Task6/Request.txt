@@ -1,0 +1,7 @@
+SELECT
+	COUNT(Users.ID) AS EMPLOYEE_COUNT,
+	Department.Salary AS DEPARTMENT_NAME,
+	AVG(Users.SALARY) AS AVERAGE_SALARY
+FROM Users
+JOIN Department ON Users.DEPARTMENT_ID = Department.ID
+GROUP BY Department.Salary;

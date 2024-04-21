@@ -1,0 +1,14 @@
+C:\Users\burr\RiderProjects\ProfSoft\AdditionalTask2\bin\Debug\net8.0\AdditionalTask2.exe
+C:\Users\burr\RiderProjects\ProfSoft\AdditionalTask2\bin\Debug\net8.0\AdditionalTask2.deps.json
+C:\Users\burr\RiderProjects\ProfSoft\AdditionalTask2\bin\Debug\net8.0\AdditionalTask2.runtimeconfig.json
+C:\Users\burr\RiderProjects\ProfSoft\AdditionalTask2\bin\Debug\net8.0\AdditionalTask2.dll
+C:\Users\burr\RiderProjects\ProfSoft\AdditionalTask2\bin\Debug\net8.0\AdditionalTask2.pdb
+C:\Users\burr\RiderProjects\ProfSoft\AdditionalTask2\obj\Debug\net8.0\AdditionalTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burr\RiderProjects\ProfSoft\AdditionalTask2\obj\Debug\net8.0\AdditionalTask2.AssemblyInfoInputs.cache
+C:\Users\burr\RiderProjects\ProfSoft\AdditionalTask2\obj\Debug\net8.0\AdditionalTask2.AssemblyInfo.cs
+C:\Users\burr\RiderProjects\ProfSoft\AdditionalTask2\obj\Debug\net8.0\AdditionalTask2.csproj.CoreCompileInputs.cache
+C:\Users\burr\RiderProjects\ProfSoft\AdditionalTask2\obj\Debug\net8.0\AdditionalTask2.dll
+C:\Users\burr\RiderProjects\ProfSoft\AdditionalTask2\obj\Debug\net8.0\refint\AdditionalTask2.dll
+C:\Users\burr\RiderProjects\ProfSoft\AdditionalTask2\obj\Debug\net8.0\AdditionalTask2.pdb
+C:\Users\burr\RiderProjects\ProfSoft\AdditionalTask2\obj\Debug\net8.0\AdditionalTask2.genruntimeconfig.cache
+C:\Users\burr\RiderProjects\ProfSoft\AdditionalTask2\obj\Debug\net8.0\ref\AdditionalTask2.dll
